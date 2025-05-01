@@ -1,1 +1,1 @@
-# PHP_URL_Shortener
+symfony server:start
