@@ -1,2 +1,2 @@
-composer install
+composer install<br>
 symfony server:start
